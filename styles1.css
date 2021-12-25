@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row {
+    background-color: rgba(9, 212, 212, 0.199);
+}
+.navbar {
+    border: none;
+    background-color: black;
+    color: #61122f;
+}
+body {
+    background-color: #61122f;
+    color: white;
+}
+.glyphicon {
+    font-size: 30px;
+    color: green;
+    
+}
+.container {
+    background-color: grey;
+}
