@@ -22,3 +22,11 @@ body {
 .container {
     background-color: grey;
 }
+@media only screen and (max-width: 600px) {
+   .navbar-nav {
+       text-align: center;
+   }
+  }
+  .text-center h1 {
+      background-color: blueviolet;
+  }
